@@ -1,67 +1,111 @@
 # Hi, I'm Ashmita 
 
-I'm a B.Tech Computer Science student who enjoys building web applications and learning how real-world software systems work.
+I'm a B.Tech Computer Science student passionate about full-stack web development and building practical software solutions that solve real-world problems.
 
-Over the past few semesters, I've worked on projects involving frontend development, backend integration, databases, and web application development. I'm currently focused on strengthening my full-stack development skills and building projects that solve practical problems.
+I enjoy designing and developing modern web applications, working across both frontend and backend technologies, and continuously improving my problem-solving skills through projects and hands-on learning.
 
-## What I'm Working On
+Recently, I've been focused on building full-stack applications using React, Node.js, Express, PostgreSQL, and REST APIs while exploring how scalable software systems are designed and deployed.
 
-* Learning React.js and modern frontend development
-* Improving my full-stack development skills
+---
+
+## What I'm Currently Working On
+
+* Building full-stack web applications
+* Strengthening React and modern frontend development skills
+* Learning backend architecture and API development
 * Practicing Data Structures & Algorithms
-* Building projects to gain real-world development experience
+* Exploring software engineering best practices
+* Creating portfolio projects that demonstrate real-world development skills
+
+---
 
 ## Tech Stack
 
-Frontend:
+### Frontend
 
 * HTML
 * CSS
 * JavaScript
 * Tailwind CSS
-* React JS
+* React.js
+* React Router
 
-Backend:
+### Backend
 
 * Node.js
 * Express.js
+* REST APIs
+* JWT Authentication
 
-Database:
+### Database
 
+* PostgreSQL
+* Neon Database
 * SQL
 * MongoDB
 
-Programming Languages:
+### Programming Languages
 
+* JavaScript
 * Java
 * C++
 * Python
-* JavaScript
 
-Tools:
+### Tools & Platforms
 
 * Git
 * GitHub
 * VS Code
+* Postman
+* Render
+* Neon
 
-## Projects
+---
+
+## Featured Projects
+
+### Career Copilot
+
+An AI-inspired full-stack career intelligence platform that helps students analyze skill gaps, evaluate GitHub portfolios, upload resumes, track career goals, and generate personalized learning roadmaps.
+
+**Tech:** React, Node.js, Express, PostgreSQL, GitHub API, JWT Authentication
+
+---
 
 ### Event Management Portal
 
-A web application developed to manage events, registrations, and user interactions while exploring frontend-backend integration and database connectivity.
+A web application for managing events, registrations, and user interactions while exploring frontend-backend integration and database connectivity.
+
+**Tech:** HTML, CSS, JavaScript, Node.js, SQL
+
+---
 
 ### SneakerDB
 
-A DBMS-based project created to understand database design, queries, and data management through a sneaker e-commerce use case.
+A DBMS-focused project designed to explore database design, SQL queries, relationships, and data management using a sneaker e-commerce use case.
+
+**Tech:** SQL, Database Design
+
+---
 
 ### Amazon Homepage Clone
 
-A responsive clone of the Amazon homepage built using HTML and CSS to strengthen frontend development fundamentals.
+A responsive frontend project built to strengthen UI development fundamentals and responsive design principles.
+
+**Tech:** HTML, CSS
+
+---
 
 ## Current Goal
 
-To gain practical software development experience through internships, collaborative projects, and continuous learning.
+To gain industry experience through internships, contribute to impactful projects, collaborate with developers, and continue growing as a full-stack software developer.
+
+---
 
 ## Let's Connect
 
-LinkedIn: https://www.linkedin.com/in/ashmita-mazumdar-009863394/
+LinkedIn:
+https://www.linkedin.com/in/ashmita-mazumdar-009863394/
+
+GitHub:
+https://github.com/ashmita-dev
