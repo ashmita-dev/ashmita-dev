@@ -1,111 +1,164 @@
 # Hi, I'm Ashmita 
 
-I'm a B.Tech Computer Science student passionate about full-stack web development and building practical software solutions that solve real-world problems.
+### B.Tech Computer Science Student | Full Stack Web Developer
 
-I enjoy designing and developing modern web applications, working across both frontend and backend technologies, and continuously improving my problem-solving skills through projects and hands-on learning.
+I'm a B.Tech Computer Science student passionate about full-stack web development and building modern, interactive, and practical software solutions that solve real-world problems.
 
-Recently, I've been focused on building full-stack applications using React, Node.js, Express, PostgreSQL, and REST APIs while exploring how scalable software systems are designed and deployed.
+I enjoy designing intuitive user interfaces, developing scalable backend systems, and creating seamless user experiences. I love learning by building projects—from responsive websites to full-stack applications—and continuously improving my software engineering and problem-solving skills.
+
+Recently, I've been focused on developing production-quality applications using **React, Node.js, Express.js, PostgreSQL, Tailwind CSS, REST APIs, GSAP, and Framer Motion**, while exploring modern frontend architecture, backend development, performance optimization, and deployment workflows.
 
 ---
 
-## What I'm Currently Working On
+#  What I'm Currently Working On
 
-* Building full-stack web applications
-* Strengthening React and modern frontend development skills
-* Learning backend architecture and API development
+* Building production-ready full-stack web applications
+* Strengthening React and modern frontend development
+* Learning scalable backend architecture and API design
+* Creating smooth animations and interactive user experiences with GSAP & Framer Motion
 * Practicing Data Structures & Algorithms
 * Exploring software engineering best practices
-* Creating portfolio projects that demonstrate real-world development skills
+* Building portfolio projects that demonstrate real-world development skills
+* Improving application performance, responsiveness, and accessibility
 
 ---
 
-## Tech Stack
+# 💻 Tech Stack
 
-### Frontend
+## Frontend
 
-* HTML
-* CSS
-* JavaScript
-* Tailwind CSS
+* HTML5
+* CSS3
+* JavaScript (ES6+)
 * React.js
 * React Router
+* Tailwind CSS
+* Vite
 
-### Backend
+## Backend
 
 * Node.js
 * Express.js
 * REST APIs
 * JWT Authentication
 
-### Database
+## Database
 
 * PostgreSQL
 * Neon Database
 * SQL
 * MongoDB
 
-### Programming Languages
+## Animations & UI
+
+* GSAP
+* ScrollTrigger
+* Framer Motion
+* Responsive UI Design
+* Interactive UI Development
+* Performance Optimization
+
+## Programming Languages
 
 * JavaScript
 * Java
 * C++
 * Python
 
-### Tools & Platforms
+## Tools & Platforms
 
 * Git
 * GitHub
 * VS Code
 * Postman
+* Vercel
 * Render
 * Neon
 
 ---
 
-## Featured Projects
+# 📂 Featured Projects
 
-### Career Copilot
+##  Developer Portfolio
+
+A modern, interactive portfolio built completely from scratch to showcase my projects, technical skills, and development journey.
+
+The project focuses on creating a premium user experience through responsive layouts, smooth animations, interactive components, and performance-focused architecture. It includes custom UI elements such as a command palette, animated technology showcase, GitHub activity integration, project galleries, timeline components, custom cursor interactions, and dynamic section-based animations.
+
+**Tech Stack**
+
+React • Vite • Tailwind CSS • GSAP • ScrollTrigger • Framer Motion • Vercel
+
+---
+
+##  Career Copilot
 
 An AI-inspired full-stack career intelligence platform that helps students analyze skill gaps, evaluate GitHub portfolios, upload resumes, track career goals, and generate personalized learning roadmaps.
 
-**Tech:** React, Node.js, Express, PostgreSQL, GitHub API, JWT Authentication
+The application combines authentication, database management, GitHub integration, and personalized career insights while providing students with actionable recommendations for improving their technical profiles.
+
+**Tech Stack**
+
+React • Node.js • Express.js • PostgreSQL • GitHub API • JWT Authentication
 
 ---
 
-### Event Management Portal
+##  Event Management Portal
 
-A web application for managing events, registrations, and user interactions while exploring frontend-backend integration and database connectivity.
+A full-stack web application designed to manage events, registrations, and user interactions while exploring frontend-backend integration and database connectivity.
 
-**Tech:** HTML, CSS, JavaScript, Node.js, SQL
+The project focuses on CRUD operations, event organization, user management, and backend communication using relational databases.
 
----
+**Tech Stack**
 
-### SneakerDB
-
-A DBMS-focused project designed to explore database design, SQL queries, relationships, and data management using a sneaker e-commerce use case.
-
-**Tech:** SQL, Database Design
+HTML • CSS • JavaScript • Node.js • SQL
 
 ---
 
-### Amazon Homepage Clone
+##  SneakerDB
 
-A responsive frontend project built to strengthen UI development fundamentals and responsive design principles.
+A database management project built around a sneaker e-commerce use case to explore relational database design, normalization, SQL queries, and efficient data management.
 
-**Tech:** HTML, CSS
+The project demonstrates practical understanding of database relationships, schema design, and query optimization.
 
----
+**Tech Stack**
 
-## Current Goal
-
-To gain industry experience through internships, contribute to impactful projects, collaborate with developers, and continue growing as a full-stack software developer.
+SQL • Database Design
 
 ---
 
-## Let's Connect
+##  Amazon Homepage Clone
 
-LinkedIn:
+A responsive frontend project created to strengthen HTML and CSS fundamentals while replicating a real-world e-commerce landing page.
+
+The project helped build a strong foundation in layouts, responsive design, and UI implementation.
+
+**Tech Stack**
+
+HTML • CSS
+
+---
+
+# 🎯 Current Goal
+
+To gain industry experience through software engineering internships, contribute to impactful projects, collaborate with developers, and continue growing as a full-stack software developer while building scalable and user-focused applications.
+
+---
+
+# 📫 Let's Connect
+
+💼 **LinkedIn**
 https://www.linkedin.com/in/ashmita-mazumdar-009863394/
 
-GitHub:
+💻 **GitHub**
 https://github.com/ashmita-dev
+
+🌐 **Portfolio**
+https://final-portfolio-liard-sigma.vercel.app
+
+📧 **Email**
+[ashmita110609@gmail.com](mailto:ashmita110609@gmail.com)
+
+---
+
+Thanks for visiting my GitHub profile! Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate, discuss technology, or build something exciting together.
