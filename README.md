@@ -1,164 +1,116 @@
-# Hi, I'm Ashmita 
+<h1 align="center">Hi, I'm Ashmita Mazumdar 👋</h1>
 
-### B.Tech Computer Science Student | Full Stack Web Developer
+<p align="center">
+  <b>Computer Science Undergraduate · Full-Stack & Backend Developer</b><br/>
+  B.Tech CSE @ SVKM's NMIMS (MPSTME), Shirpur · Class of 2028
+</p>
 
-I'm a B.Tech Computer Science student passionate about full-stack web development and building modern, interactive, and practical software solutions that solve real-world problems.
-
-I enjoy designing intuitive user interfaces, developing scalable backend systems, and creating seamless user experiences. I love learning by building projects—from responsive websites to full-stack applications—and continuously improving my software engineering and problem-solving skills.
-
-Recently, I've been focused on developing production-quality applications using **React, Node.js, Express.js, PostgreSQL, Tailwind CSS, REST APIs, GSAP, and Framer Motion**, while exploring modern frontend architecture, backend development, performance optimization, and deployment workflows.
-
----
-
-#  What I'm Currently Working On
-
-* Building production-ready full-stack web applications
-* Strengthening React and modern frontend development
-* Learning scalable backend architecture and API design
-* Creating smooth animations and interactive user experiences with GSAP & Framer Motion
-* Practicing Data Structures & Algorithms
-* Exploring software engineering best practices
-* Building portfolio projects that demonstrate real-world development skills
-* Improving application performance, responsiveness, and accessibility
+<p align="center">
+  <a href="https://final-portfolio-liard-sigma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ashmita-mazumdar-009863394/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ashmita110609@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-# 💻 Tech Stack
+I build **complete, tested, deployed systems**: event-driven backends, databases that do real work, and clean frontends on top.
+My recent work includes a **Kafka-based fraud-monitoring platform**, a **fraud engine written inside Oracle with PL/SQL**,
+a **compiler I wrote by hand** from lexer to C++ code generation, and a **webcam-controlled game** built with classical computer vision.
 
-## Frontend
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* React Router
-* Tailwind CSS
-* Vite
-
-## Backend
-
-* Node.js
-* Express.js
-* REST APIs
-* JWT Authentication
-
-## Database
-
-* PostgreSQL
-* Neon Database
-* SQL
-* MongoDB
-
-## Animations & UI
-
-* GSAP
-* ScrollTrigger
-* Framer Motion
-* Responsive UI Design
-* Interactive UI Development
-* Performance Optimization
-
-## Programming Languages
-
-* JavaScript
-* Java
-* C++
-* Python
-
-## Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Vercel
-* Render
-* Neon
+- 🔭 **Focus:** backend engineering, event-driven architecture, databases, and full-stack web apps
+- ✅ **How I work:** every project is deployed live and backed by automated tests and CI (**450+ tests** across projects)
+- 🎯 **Looking for:** Software Engineering internship opportunities
 
 ---
 
-# 📂 Featured Projects
+## 🚀 Featured Projects
 
-##  Developer Portfolio
+### 💳 [FinPulse](https://github.com/ashmita-dev/finpulse) — Real-Time Fraud Monitoring Platform · [Live Demo](https://finpulse-frontend-0lj2.onrender.com/)
+`FastAPI` `Apache Kafka` `PostgreSQL` `WebSockets` `React` `TypeScript` `Docker` `Airflow`
 
-A modern, interactive portfolio built completely from scratch to showcase my projects, technical skills, and development journey.
+- Event-driven pipeline: **API → PostgreSQL → Kafka → risk engine → WebSocket**, pushing **APPROVE / REVIEW / BLOCK** decisions to the dashboard in real time
+- Risk engine scores amount, new-device, transaction-velocity and behavioural-anomaly signals, with explainable reasons
+- 6 containerized services behind an Nginx reverse proxy; CI with Pytest, Jest and Cypress end-to-end tests
 
-The project focuses on creating a premium user experience through responsive layouts, smooth animations, interactive components, and performance-focused architecture. It includes custom UI elements such as a command palette, animated technology showcase, GitHub activity integration, project galleries, timeline components, custom cursor interactions, and dynamic section-based animations.
+### 🏦 [SmartBank](https://github.com/ashmita-dev/SmartBank) — Database-Driven Fraud Detection · [Live Demo](https://ashmita-dev.github.io/SmartBank/)
+`Oracle 21c` `PL/SQL` `ORDS` `React 19` `Playwright`
 
-**Tech Stack**
+- Fraud detection runs **inside the database**: a compound trigger scores every transaction, raises alerts and assigns them to the least-loaded analyst
+- Normalized **12-table schema** with constraints, reporting views and indexes checked with EXPLAIN PLAN
+- Authenticated REST API with role-based access, a two-role React dashboard, and **150+ automated checks**
 
-React • Vite • Tailwind CSS • GSAP • ScrollTrigger • Framer Motion • Vercel
+### ⚙️ [CodeBridge](https://github.com/ashmita-dev/CodeBridge) — Pseudocode-to-C++ Compiler · [Live Demo](https://codebridge-swart.vercel.app)
+`Python` `FastAPI` `React` `TypeScript` `C++17`
 
----
+- Every phase hand-written, **no parser generators**: lexer, recursive-descent parser, typed AST, semantic analysis, three-address code, optimizer, C++ code generator
+- Optimizer verified by a **300-program randomized differential test**; **233 tests** in total, including g++ build-and-run checks
+- Interactive workbench that shows tokens, AST, symbol table, original vs. optimized TAC, and the generated C++ live
 
-##  Career Copilot
+### 🎮 [Pixel Quest](https://github.com/ashmita-dev/PixelQuest) — Webcam-Controlled Arcade Game · [Play in Browser](https://ashmita-dev.github.io/PixelQuest/)
+`Python` `OpenCV` `NumPy` `Pygame`
 
-An AI-inspired full-stack career intelligence platform that helps students analyze skill gaps, evaluate GitHub portfolios, upload resumes, track career goals, and generate personalized learning roadmaps.
+- Steer a spaceship by moving a coloured object in front of your webcam, tracked in **~1.2 ms per frame** at **60 FPS**
+- Classical computer vision only: HSV segmentation, morphology, contour centroids and motion smoothing
+- **65 tests** using synthetic frames and fake cameras, so no webcam is needed to run them
 
-The application combines authentication, database management, GitHub integration, and personalized career insights while providing students with actionable recommendations for improving their technical profiles.
+<details>
+<summary><b>More projects</b></summary>
+<br/>
 
-**Tech Stack**
+- **[Developer Portfolio](https://final-portfolio-liard-sigma.vercel.app)**: interactive portfolio with a command palette, GitHub activity and scroll-driven animations. `React` `Vite` `Tailwind CSS` `GSAP` `Framer Motion`
+- **Career Copilot**: full-stack platform that helps students find skill gaps, review their GitHub profile and plan a learning roadmap. `React` `Node.js` `Express.js` `PostgreSQL` `GitHub API` `JWT`
 
-React • Node.js • Express.js • PostgreSQL • GitHub API • JWT Authentication
-
----
-
-##  Event Management Portal
-
-A full-stack web application designed to manage events, registrations, and user interactions while exploring frontend-backend integration and database connectivity.
-
-The project focuses on CRUD operations, event organization, user management, and backend communication using relational databases.
-
-**Tech Stack**
-
-HTML • CSS • JavaScript • Node.js • SQL
-
----
-
-##  SneakerDB
-
-A database management project built around a sneaker e-commerce use case to explore relational database design, normalization, SQL queries, and efficient data management.
-
-The project demonstrates practical understanding of database relationships, schema design, and query optimization.
-
-**Tech Stack**
-
-SQL • Database Design
+</details>
 
 ---
 
-##  Amazon Homepage Clone
+## 🛠️ Tech Stack
 
-A responsive frontend project created to strengthen HTML and CSS fundamentals while replicating a real-world e-commerce landing page.
+**Languages**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL%20%2F%20PL%2FSQL-4479A1?style=flat-square&logo=oracle&logoColor=white)
 
-The project helped build a strong foundation in layouts, responsive design, and UI implementation.
+**Backend & Data**<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
-**Tech Stack**
+**Frontend**<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 
-HTML • CSS
+**DevOps & Testing**<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ---
 
-# 🎯 Current Goal
+## 🏆 Achievements
 
-To gain industry experience through software engineering internships, contribute to impactful projects, collaborate with developers, and continue growing as a full-stack software developer while building scalable and user-focused applications.
-
----
-
-# 📫 Let's Connect
-
-💼 **LinkedIn**
-https://www.linkedin.com/in/ashmita-mazumdar-009863394/
-
-💻 **GitHub**
-https://github.com/ashmita-dev
-
-🌐 **Portfolio**
-https://final-portfolio-liard-sigma.vercel.app
-
-📧 **Email**
-[ashmita110609@gmail.com](mailto:ashmita110609@gmail.com)
+- 🥈 **2nd Prize**, Python Mini Project Competition
+- 💡 **Smart India Hackathon 2025**: Round-1 selection through the Yugantar 2.0 Inter-Institute Hackathon
+- 📜 **JPMorgan Chase & Co.** Software Engineering Virtual Experience (Forage) · **Microsoft Learn** Cloud Computing badges
 
 ---
 
-Thanks for visiting my GitHub profile! Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate, discuss technology, or build something exciting together.
+<p align="center">
+  <b>Open to Software Engineering internships.</b> If you're hiring or want to talk tech, reach out at
+  <a href="mailto:ashmita110609@gmail.com">ashmita110609@gmail.com</a>.
+</p>
